@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yanmagalhaes.com.br/"/>
-  <updated>2016-08-02T01:02:33.458Z</updated>
+  <updated>2016-08-02T03:03:40.053Z</updated>
   <id>http://yanmagalhaes.com.br/</id>
   
   <author>
@@ -16,19 +16,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ok</title>
+    <link href="http://yanmagalhaes.com.br/ok/"/>
+    <id>http://yanmagalhaes.com.br/ok/</id>
+    <published>2016-08-02T03:03:39.000Z</published>
+    <updated>2016-08-02T03:03:40.053Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>firstpost with hexo</title>
-    <link href="http://yanmagalhaes.com.br/2016/07/31/"/>
-    <id>http://yanmagalhaes.com.br/2016/07/31/</id>
+    <link href="http://yanmagalhaes.com.br/firstpost/"/>
+    <id>http://yanmagalhaes.com.br/firstpost/</id>
     <published>2016-07-31T18:07:29.000Z</published>
-    <updated>2016-08-02T01:02:33.458Z</updated>
+    <updated>2016-08-02T02:19:27.509Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Teste-de-assunto"><a href="#Teste-de-assunto" class="headerlink" title="Teste de assunto"></a>Teste de assunto</h1><p>Ok Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Teste-de-assunto&quot;&gt;&lt;a href=&quot;#Teste-de-assunto&quot; class=&quot;headerlink&quot; title=&quot;Teste de assunto&quot;&gt;&lt;/a&gt;Teste de assunto&lt;/h1&gt;&lt;p&gt;Ok Lorem ipsum
+      true
     
     </summary>
     
@@ -39,8 +54,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yanmagalhaes.com.br/2016/07/30/"/>
-    <id>http://yanmagalhaes.com.br/2016/07/30/</id>
+    <link href="http://yanmagalhaes.com.br/hello-world/"/>
+    <id>http://yanmagalhaes.com.br/hello-world/</id>
     <published>2016-07-30T12:26:18.455Z</published>
     <updated>2016-07-30T12:26:18.455Z</updated>
     
