@@ -48,7 +48,11 @@ hr.small {
 }
 
 .circle-home{
-  color: #ccc;
+  color: #86C770;
+}
+
+.footer-powered{
+  color: #404040;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -92,6 +96,11 @@ img {
   margin-top: 30px;
 }
 
+.social-media-header{
+  position: relative;
+  margin-top: 2%;
+}
+
 @media only screen and (min-width: 768px) {
   .disqus-comments {
     margin-top: 40px;
@@ -116,7 +125,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #f5f5f5;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -254,6 +263,10 @@ footer a {
   color: #404040;
 }
 
+footer a span{
+  color: #96c387;
+}
+
 footer .list-inline {
   margin: 0;
   padding: 0;
@@ -262,6 +275,11 @@ footer .copyright {
   font-family: Open Sans;
   text-align: center;
   margin-bottom: 0;
+}
+
+p.copyright{
+  color: #fff;
+  font-weight: 600;
 }
 footer .theme-by {
   text-align: center;
