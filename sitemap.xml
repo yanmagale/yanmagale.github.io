@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yanmagalhaes.com.br/firstpost/</loc>
+    <loc>http://yanmagalhaes.com.br/participate/index.html</loc>
     
-    <lastmod>2016-08-05T22:13:59.950Z</lastmod>
+    <lastmod>2017-03-01T15:41:16.147Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yanmagalhaes.com.br/about/index.html</loc>
+    
+    <lastmod>2017-03-01T15:26:14.855Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yanmagalhaes.com.br/o-importante-e-comecar/</loc>
+    
+    <lastmod>2017-03-01T15:08:54.295Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yanmagalhaes.com.br/hello-world/</loc>
+    
+    <lastmod>2017-03-01T14:37:32.319Z</lastmod>
     
   </url>
   
