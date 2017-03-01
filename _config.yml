@@ -69,4 +69,4 @@ theme: beautiful-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/YanMagale/yanmagalhaes.github.io
+  repo: https://github.com/yanmagale/yanmagalhaes.github.io
