@@ -14,7 +14,7 @@ Sempre trabalhei com a Web e a cada dia que passo sou mais apaixonado por todo e
 
 Gosto muito de trabalhar em equipe, de algum modo poder manter todos do time motivados e unidos, e sou muito comunicativo. Além disso, gosto de poder participar e contribuir de algum modo com as comunidades de desenvolvedores, pois acredito que esta troca de conhecimento e experiências entre profissionais é algo realmente incrível Estou sempre participando de algum evento, na medida do possível, dentro e fora de BH(ainda não fui pra fora do Brasil, quem sabe um dia :D). Além de participar, procuro também ajudar organizando alguns eventos. Hoje sou organizador do [GDGBH](http://gdgbh.org/) e co-organizador do [FEMUG-MG](https://www.meetup.com/pt-BR/FEMUG-MG/).
 
-No meu tempo livre, gosto de estudar e praticar alguma linguagem de programação, bibliotecas e etc. Também gosto de praticar esportes e estar com meus amigos :D
+No meu tempo livre, gosto de estudar e praticar alguma linguagem de programação, novas técnicas, bibliotecas e etc. Também gosto de praticar esportes(futebol e artes marciais) e estar com meus amigos :D
 
 # Algumas Habilidades
 
@@ -24,8 +24,6 @@ No meu tempo livre, gosto de estudar e praticar alguma linguagem de programaçã
 - AngularJS, Ionic
 - Task Runners e Gerenciadores de Dependência (Gulp, Bower, Composer)
 - Arquitetura Flux
-- ReactJS / Redux
-- Polymer
 - PHP
 - Laravel
 - MySQL - MongoDB - Neo4j
