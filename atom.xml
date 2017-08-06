@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yanmagalhaes.com.br/"/>
-  <updated>2017-08-06T15:29:03.000Z</updated>
+  <updated>2017-08-06T15:32:47.000Z</updated>
   <id>http://yanmagalhaes.com.br/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="http://yanmagalhaes.com.br/quando-e-a-hora-de-mudar/"/>
     <id>http://yanmagalhaes.com.br/quando-e-a-hora-de-mudar/</id>
     <published>2017-08-05T13:00:00.000Z</published>
-    <updated>2017-08-06T15:29:03.000Z</updated>
+    <updated>2017-08-06T15:32:47.000Z</updated>
     
     <content type="html"><![CDATA[<p>Quando é a hora de trocar de emprego e de arriscar uma mudança de ares? Existe algum momento certo para fazer isso? E sobre a stack que estou utilizando hoje, será que devo arriscar e seguir naquela outra tecnologia que eu tenho estudado, gostado e trabalhar com ela em alguma empresa que já a utiliza? Existe alguma coisa que possa nos ajudar a enxergar que é uma boa hora para realizar algum tipo de mudança em nossa carreira?<br><a id="more"></a></p>
 <h1 id="O-inicio-de-tudo"><a href="#O-inicio-de-tudo" class="headerlink" title="O início de tudo"></a>O início de tudo</h1><p>Faaaalaaaa Gaaaleeeeraaaaa, quaaanto tempoooooo!! Sim, eu realmente estava com saudades.</p>
-<p>Queria pedir desculpas por este tempo que fiquei sem fazer nenhum post, espero que durante  este post fique mais claro o motivo da ausência :D. Aconteceram uma série de acontecimentos e mudanças deste o meu <a href="/por-que-flux/">último post</a>, e de antemão, agradeço imensamente a cada um de vocês, leitores e leitoras, por todo o apoio e divulgação. Foi tão sensacional, tão sensacional, que eu acabei escrevendo este mesmo conteúdo para o blog do <a href="www.imasters.com.br">Imasters</a> :D :D :D. Foi uma felicidade e um acontecimento surreal, fiquei muito muito feliz… Muito em breve, teremos a parte 2 do arquivo da série sobre Flux! </p>
+<p>Queria pedir desculpas por este tempo que fiquei sem fazer nenhum post, espero que durante  este post fique mais claro o motivo da ausência :D. Aconteceram uma série de acontecimentos e mudanças deste o meu <a href="/por-que-flux/">último post</a>, e de antemão, agradeço imensamente a cada um de vocês, leitores e leitoras, por todo o apoio e divulgação. Foi tão sensacional, tão sensacional, que eu acabei escrevendo este mesmo conteúdo para o blog do <a href="https://imasters.com.br/desenvolvimento/software/os-estados-do-flux-uma-nova-arquitetura/" target="_blank" rel="external">Imasters</a> :D :D :D. Foi uma felicidade e um acontecimento surreal, fiquei muito muito feliz… Muito em breve, teremos a parte 2 do arquivo da série sobre Flux! </p>
 <p>Sem mais delongas, o post de hoje é um assunto que venho pensando a um bom tempo(muito tempo mesmo), e que promete(ou não) ser polêmico. Este com certeza foi o assunto que mais pensei em aborda-lo e de iniciar a escrita. O objetivo maior é que possamos criar um bate papo saudável onde todos possam compartilhar suas experiências sobre o tema. Então #Siimbora pro post.</p>
 <p>Ainda falando um pouco sobre as coisas que aconteceram nos últimos 3 mêses, acabei tendo um pequeno susto com a saúde, então precisei me cuidar mais. Felizmente nada grave e já estou 100%. Uma outra coisa marcante que aconteceu, foi a minha mudança de emprego para o <a href="http://www.4yousee.com.br" target="_blank" rel="external">4YouSee Digital Signage</a>, uma empresa focada em Digital Out Of Home, um desafio totalmente novo na carreira e que tenho tido a oportunidade de aprender bastante. Além de uma mudança de empresa, também foi uma adição/mudança de stack: sempre atuei como full stack, e na parte do back-end eu sempre utilizei PHP. Agora, estou usando NodeJS. </p>
 <p>Também participei e palestrei em alguns eventos neste período, como o GDG Tech Tour Caruaru e o Dev Weekend Diamatina(no momento que comecei a escrever este post estava viajando par a cidade de Diamantina :D :D). Em ambos os eventos, falei sobre o Polymer 2, então devo trazer conteúdos sobre ele aqui no blog também.</p>
